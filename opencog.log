@@ -1,0 +1,14 @@
+[2018-08-21 13:12:28:927] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-08-21 13:12:28:927] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-08-21 13:12:28:927] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-08-21 13:12:28:927] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-08-21 13:12:28:927] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-08-21 13:12:28:927] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-08-21 13:12:28:927] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-08-21 13:12:28:927] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-08-21 13:12:28:927] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-08-21 13:12:29:031] [INFO] [global_python_initialize] Start
+[2018-08-21 13:12:29:031] [INFO] [global_python_initialize] Adding OpenCog sys.path directories
+[2018-08-21 13:12:29:031] [INFO] [global_python_initialize] Finish
+[2018-08-21 13:12:29:031] [INFO] [global_python_initialize] Start
+[2018-08-21 13:12:29:031] [INFO] PythonEval::initialize_python_objects_and_imports Finished initialising python evaluator.
