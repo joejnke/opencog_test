@@ -1,0 +1,8 @@
+R (ghost-parse "u: (hello) hi ^keep")
+M (test-ghost "hello")
+E (list (WordNode "hi"))
+M (test-ghost "selam")
+E `()
+M (test-ghost "hey")
+E (list (WordNode "hi"))
+N (ConceptNode "Minilik")

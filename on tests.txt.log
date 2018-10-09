@@ -1,0 +1,32 @@
+%%%% Starting test on tests.txt
+Group begin: on tests.txt
+Test begin:
+  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
+  source-line: 81
+  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+Test end:
+  result-kind: pass
+  actual-value: ((WordNode "hi")
+)
+  expected-value: ((WordNode "hi")
+)
+Test begin:
+  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
+  source-line: 81
+  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+Test end:
+  result-kind: pass
+  actual-value: ()
+  expected-value: ()
+Test begin:
+  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
+  source-line: 81
+  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+Test end:
+  result-kind: fail
+  actual-value: ()
+  expected-value: ((WordNode "hi")
+)
+Group end: on tests.txt
+# of expected passes      2
+# of unexpected failures  1
