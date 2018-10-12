@@ -23,3 +23,681 @@
 [2018-10-09 11:27:32:931] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
 [2018-10-09 11:27:32:931] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
 [2018-10-09 11:27:32:936] [INFO] [say] (hi)
+[2018-10-10 07:00:41:594] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-10 07:00:41:812] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-10 07:00:41:812] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-10 07:00:41:812] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-10 07:00:41:812] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-10 07:00:41:812] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-10 07:00:41:812] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-10 07:00:41:812] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-10 07:00:41:812] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-10 07:00:41:812] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-10 07:00:41:817] [INFO] [say] (hi)
+[2018-10-11 10:15:18:169] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 10:16:43:612] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 10:16:54:141] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 10:17:36:023] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 10:18:31:754] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 10:19:25:969] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 10:19:26:033] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 10:19:26:033] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 10:19:26:033] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 10:19:26:033] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 10:19:26:033] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 10:19:26:033] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 10:19:26:033] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 10:19:26:033] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 10:19:26:033] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 10:19:26:157] [INFO] [say] (hi)
+[2018-10-11 10:22:14:672] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 10:22:14:732] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 10:22:14:732] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 10:22:14:732] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 10:22:14:732] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 10:22:14:732] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 10:22:14:732] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 10:22:14:732] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 10:22:14:732] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 10:22:14:732] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 10:22:14:738] [INFO] [say] (hi)
+[2018-10-11 10:26:03:728] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 10:26:03:786] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 10:26:03:786] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 10:26:03:786] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 10:26:03:786] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 10:26:03:786] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 10:26:03:786] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 10:26:03:786] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 10:26:03:786] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 10:26:03:786] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 10:26:03:792] [INFO] [say] (hi)
+[2018-10-11 21:41:28:068] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 21:41:28:338] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 21:41:28:338] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 21:41:28:338] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 21:41:28:338] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 21:41:28:338] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 21:41:28:338] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 21:41:28:338] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 21:41:28:338] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 21:41:28:338] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 21:41:28:344] [INFO] [say] (hi)
+[2018-10-11 21:42:57:318] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 21:42:57:380] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 21:42:57:380] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 21:42:57:380] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 21:42:57:380] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 21:42:57:380] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 21:42:57:380] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 21:42:57:380] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 21:42:57:380] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 21:42:57:380] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 21:42:57:388] [INFO] [say] (hi)
+[2018-10-11 21:44:43:157] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 21:44:43:225] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 21:44:43:226] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 21:44:43:226] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 21:44:43:226] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 21:44:43:226] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 21:44:43:226] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 21:44:43:226] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 21:44:43:226] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 21:44:43:226] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 21:44:43:231] [INFO] [say] (hi)
+[2018-10-11 21:47:15:404] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 21:47:15:461] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 21:47:15:461] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 21:47:15:461] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 21:47:15:461] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 21:47:15:461] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 21:47:15:461] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 21:47:15:461] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 21:47:15:461] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 21:47:15:461] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 21:47:15:467] [INFO] [say] (hi)
+[2018-10-11 21:47:56:619] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 21:47:56:699] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 21:47:56:699] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 21:47:56:699] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 21:47:56:699] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 21:47:56:699] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 21:47:56:699] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 21:47:56:699] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 21:47:56:699] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 21:47:56:699] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 21:47:56:704] [INFO] [say] (hi)
+[2018-10-11 21:53:05:257] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 21:53:05:328] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 21:53:05:328] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 21:53:05:328] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 21:53:05:328] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 21:53:05:328] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 21:53:05:328] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 21:53:05:328] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 21:53:05:328] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 21:53:05:328] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 21:53:05:335] [INFO] [say] (hi)
+[2018-10-11 21:54:03:094] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 21:54:03:157] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 21:54:03:157] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 21:54:03:157] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 21:54:03:157] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 21:54:03:157] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 21:54:03:157] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 21:54:03:157] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 21:54:03:157] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 21:54:03:157] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 21:54:03:162] [INFO] [say] (hi)
+[2018-10-11 22:08:58:244] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:08:58:311] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:08:58:311] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:08:58:311] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:08:58:311] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:08:58:311] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:08:58:311] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:08:58:311] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:08:58:311] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:08:58:311] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:08:58:317] [INFO] [say] (hi)
+[2018-10-11 22:11:16:639] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:11:16:708] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:11:16:708] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:11:16:708] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:11:16:708] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:11:16:708] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:11:16:708] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:11:16:709] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:11:16:709] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:11:16:709] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:11:16:714] [INFO] [say] (hi)
+[2018-10-11 22:12:12:632] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:12:12:696] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:12:12:696] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:12:12:696] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:12:12:696] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:12:12:696] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:12:12:696] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:12:12:696] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:12:12:696] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:12:12:696] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:12:12:702] [INFO] [say] (hi)
+[2018-10-11 22:29:15:781] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:29:15:836] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:29:15:837] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:29:15:837] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:29:15:837] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:29:15:837] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:29:15:837] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:29:15:837] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:29:15:837] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:29:15:837] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:29:15:844] [INFO] [say] (hi)
+[2018-10-11 22:31:10:928] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:31:10:996] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:31:10:996] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:31:10:996] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:31:10:996] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:31:10:996] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:31:10:996] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:31:10:996] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:31:10:996] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:31:10:996] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:31:11:002] [INFO] [say] (hi)
+[2018-10-11 22:32:10:923] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:32:10:977] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:32:10:977] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:32:10:977] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:32:10:977] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:32:10:977] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:32:10:977] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:32:10:977] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:32:10:977] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:32:10:977] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:32:10:991] [INFO] [say] (hi)
+[2018-10-11 22:39:03:378] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:39:03:435] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:39:03:435] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:39:03:435] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:39:03:435] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:39:03:435] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:39:03:435] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:39:03:435] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:39:03:435] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:39:03:435] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:39:03:441] [INFO] [say] (hi)
+[2018-10-11 22:41:00:348] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:41:00:409] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:41:00:409] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:41:00:409] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:41:00:409] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:41:00:409] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:41:00:409] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:41:00:409] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:41:00:409] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:41:00:409] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:41:00:415] [INFO] [say] (hi)
+[2018-10-11 22:41:44:263] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:41:44:331] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:41:44:331] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:41:44:331] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:41:44:331] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:41:44:331] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:41:44:331] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:41:44:331] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:41:44:331] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:41:44:331] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:41:44:336] [INFO] [say] (hi)
+[2018-10-11 22:42:02:482] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:42:02:549] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:42:02:549] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:42:02:549] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:42:02:549] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:42:02:549] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:42:02:549] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:42:02:549] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:42:02:549] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:42:02:549] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:42:02:554] [INFO] [say] (hi)
+[2018-10-11 22:42:07:084] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:42:07:150] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:42:07:150] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:42:07:150] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:42:07:150] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:42:07:150] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:42:07:150] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:42:07:150] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:42:07:150] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:42:07:150] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:42:07:155] [INFO] [say] (hi)
+[2018-10-11 22:42:17:740] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:42:17:809] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:42:17:809] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:42:17:809] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:42:17:809] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:42:17:809] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:42:17:809] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:42:17:809] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:42:17:809] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:42:17:809] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:42:17:815] [INFO] [say] (hi)
+[2018-10-11 22:42:20:673] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:42:20:738] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:42:20:738] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:42:20:738] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:42:20:738] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:42:20:738] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:42:20:738] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:42:20:738] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:42:20:738] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:42:20:738] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:42:20:743] [INFO] [say] (hi)
+[2018-10-11 22:42:26:682] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-11 22:42:26:752] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-11 22:42:26:752] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-11 22:42:26:752] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-11 22:42:26:752] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-11 22:42:26:752] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-11 22:42:26:752] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-11 22:42:26:752] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-11 22:42:26:752] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-11 22:42:26:752] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-11 22:42:26:758] [INFO] [say] (hi)
+[2018-10-12 10:14:58:928] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 10:14:59:156] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 10:14:59:156] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 10:14:59:156] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 10:14:59:156] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 10:14:59:156] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 10:14:59:156] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 10:14:59:156] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 10:14:59:156] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 10:14:59:156] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 10:14:59:162] [INFO] [say] (hi)
+[2018-10-12 10:22:05:763] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 10:22:05:824] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 10:22:05:824] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 10:22:05:824] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 10:22:05:824] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 10:22:05:824] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 10:22:05:824] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 10:22:05:824] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 10:22:05:824] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 10:22:05:824] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 10:22:05:830] [INFO] [say] (hi)
+[2018-10-12 10:23:58:817] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 10:26:06:210] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 10:26:06:280] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 10:26:06:280] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 10:26:06:280] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 10:26:06:280] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 10:26:06:280] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 10:26:06:280] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 10:26:06:280] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 10:26:06:280] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 10:26:06:280] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 10:26:06:287] [INFO] [say] (hi)
+[2018-10-12 10:29:38:202] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 10:29:38:277] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 10:29:38:277] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 10:29:38:277] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 10:29:38:277] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 10:29:38:277] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 10:29:38:277] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 10:29:38:277] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 10:29:38:277] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 10:29:38:277] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 10:29:38:282] [INFO] [say] (hi)
+[2018-10-12 10:33:54:252] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 10:33:54:306] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 10:33:54:306] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 10:33:54:306] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 10:33:54:306] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 10:33:54:306] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 10:33:54:306] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 10:33:54:306] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 10:33:54:306] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 10:33:54:306] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 10:33:54:312] [INFO] [say] (hi)
+[2018-10-12 10:34:07:121] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 10:34:07:179] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 10:34:07:179] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 10:34:07:179] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 10:34:07:179] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 10:34:07:179] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 10:34:07:179] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 10:34:07:179] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 10:34:07:179] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 10:34:07:179] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 10:34:07:184] [INFO] [say] (hi)
+[2018-10-12 10:41:19:688] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 10:41:19:749] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 10:41:19:749] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 10:41:19:749] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 10:41:19:749] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 10:41:19:749] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 10:41:19:749] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 10:41:19:749] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 10:41:19:749] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 10:41:19:749] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 10:41:19:754] [INFO] [say] (hi)
+[2018-10-12 10:42:38:631] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 10:42:38:696] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 10:42:38:696] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 10:42:38:696] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 10:42:38:696] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 10:42:38:696] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 10:42:38:696] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 10:42:38:696] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 10:42:38:696] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 10:42:38:696] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 10:42:38:701] [INFO] [say] (hi)
+[2018-10-12 10:43:02:276] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 10:43:02:331] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 10:43:02:331] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 10:43:02:331] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 10:43:02:331] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 10:43:02:331] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 10:43:02:331] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 10:43:02:331] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 10:43:02:331] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 10:43:02:331] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 10:43:02:337] [INFO] [say] (hi)
+[2018-10-12 12:00:51:515] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 12:23:01:774] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 12:25:58:852] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 12:40:13:030] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 12:40:13:092] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 12:40:13:092] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 12:40:13:092] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 12:40:13:092] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 12:40:13:092] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 12:40:13:092] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 12:40:13:092] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 12:40:13:092] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 12:40:13:093] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 12:40:13:098] [INFO] [say] (hi)
+[2018-10-12 12:42:32:610] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 12:42:32:696] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 12:42:32:696] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 12:42:32:696] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 12:42:32:696] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 12:42:32:696] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 12:42:32:696] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 12:42:32:696] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 12:42:32:696] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 12:42:32:696] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 12:42:32:713] [INFO] [say] (hi)
+[2018-10-12 12:43:08:819] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 12:43:08:876] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 12:43:08:876] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 12:43:08:876] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 12:43:08:876] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 12:43:08:876] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 12:43:08:876] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 12:43:08:876] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 12:43:08:876] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 12:43:08:876] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 12:43:08:882] [INFO] [say] (hi)
+[2018-10-12 12:48:55:020] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 12:48:55:079] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 12:48:55:079] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 12:48:55:079] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 12:48:55:079] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 12:48:55:079] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 12:48:55:079] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 12:48:55:079] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 12:48:55:079] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 12:48:55:079] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 12:48:55:085] [INFO] [say] (hi)
+[2018-10-12 13:04:52:511] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:04:52:573] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:04:52:573] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:04:52:573] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:04:52:573] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:04:52:573] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:04:52:573] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:04:52:573] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:04:52:573] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:04:52:573] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:04:52:578] [INFO] [say] (hi)
+[2018-10-12 13:07:54:764] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:07:54:831] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:07:54:831] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:07:54:831] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:07:54:831] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:07:54:831] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:07:54:831] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:07:54:831] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:07:54:831] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:07:54:831] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:07:54:838] [INFO] [say] (hi)
+[2018-10-12 13:15:58:083] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:15:58:144] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:15:58:144] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:15:58:144] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:15:58:144] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:15:58:144] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:15:58:144] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:15:58:144] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:15:58:144] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:15:58:144] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:15:58:150] [INFO] [say] (hi)
+[2018-10-12 13:21:47:906] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:21:47:968] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:21:47:968] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:21:47:968] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:21:47:968] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:21:47:968] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:21:47:968] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:21:47:968] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:21:47:968] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:21:47:968] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:21:47:973] [INFO] [say] (hi)
+[2018-10-12 13:22:01:193] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:22:01:265] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:22:01:265] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:22:01:265] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:22:01:265] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:22:01:265] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:22:01:265] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:22:01:265] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:22:01:265] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:22:01:265] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:22:01:271] [INFO] [say] (hi)
+[2018-10-12 13:25:01:127] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:25:01:182] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:25:01:182] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:25:01:182] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:25:01:182] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:25:01:182] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:25:01:182] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:25:01:182] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:25:01:182] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:25:01:182] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:25:01:197] [INFO] [say] (hi)
+[2018-10-12 13:26:08:569] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:26:08:707] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:26:08:707] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:26:08:707] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:26:08:707] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:26:08:707] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:26:08:707] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:26:08:707] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:26:08:707] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:26:08:707] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:26:08:713] [INFO] [say] (hi)
+[2018-10-12 13:27:11:663] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:27:11:720] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:27:11:720] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:27:11:720] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:27:11:720] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:27:11:720] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:27:11:720] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:27:11:720] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:27:11:720] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:27:11:720] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:27:11:726] [INFO] [say] (hi)
+[2018-10-12 13:30:28:178] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:30:28:178] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:30:28:178] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:30:28:178] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:30:28:178] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:30:28:178] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:30:28:178] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:30:28:178] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:30:28:178] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:40:44:640] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:40:44:694] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:40:44:694] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:40:44:694] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:40:44:694] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:40:44:694] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:40:44:694] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:40:44:694] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:40:44:694] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:40:44:694] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:40:44:702] [INFO] [say] (hi)
+[2018-10-12 13:41:38:995] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:41:39:053] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:41:39:053] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:41:39:053] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:41:39:053] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:41:39:053] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:41:39:053] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:41:39:053] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:41:39:053] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:41:39:053] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:41:39:058] [INFO] [say] (hi)
+[2018-10-12 13:44:13:139] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:44:13:194] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:44:13:194] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:44:13:194] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:44:13:194] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:44:13:194] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:44:13:194] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:44:13:194] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:44:13:194] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:44:13:194] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:44:13:201] [INFO] [say] (hi)
+[2018-10-12 13:48:46:590] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:48:46:649] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:48:46:649] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:48:46:649] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:48:46:649] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:48:46:649] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:48:46:649] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:48:46:649] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:48:46:649] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:48:46:649] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:48:46:654] [INFO] [say] (hi)
+[2018-10-12 13:51:43:727] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:51:43:780] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:51:43:780] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:51:43:780] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:51:43:780] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:51:43:780] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:51:43:780] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:51:43:780] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:51:43:780] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:51:43:780] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:51:43:796] [INFO] [say] (hi)
+[2018-10-12 13:52:06:742] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:52:06:798] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:52:06:798] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:52:06:798] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:52:06:798] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:52:06:798] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:52:06:798] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:52:06:798] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:52:06:798] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:52:06:798] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:52:06:804] [INFO] [say] (hi)
+[2018-10-12 13:54:41:151] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 13:54:41:217] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 13:54:41:217] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 13:54:41:217] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 13:54:41:217] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 13:54:41:217] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 13:54:41:217] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 13:54:41:217] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 13:54:41:217] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 13:54:41:217] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 13:54:41:222] [INFO] [say] (hi)
+[2018-10-12 14:00:34:722] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 14:00:34:777] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 14:00:34:777] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 14:00:34:777] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 14:00:34:777] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 14:00:34:777] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 14:00:34:777] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 14:00:34:777] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 14:00:34:777] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 14:00:34:777] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 14:00:34:784] [INFO] [say] (hi)
+[2018-10-12 14:13:51:251] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 14:13:51:318] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 14:13:51:318] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 14:13:51:318] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 14:13:51:318] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 14:13:51:318] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 14:13:51:318] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 14:13:51:318] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 14:13:51:318] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 14:13:51:318] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 14:13:51:324] [INFO] [say] (hi)
+[2018-10-12 14:28:33:358] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 14:28:33:429] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 14:28:33:429] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 14:28:33:429] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 14:28:33:429] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 14:28:33:429] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 14:28:33:429] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 14:28:33:429] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 14:28:33:429] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 14:28:33:429] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 14:28:33:434] [INFO] [say] (hi)
+[2018-10-12 14:28:51:911] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 14:28:51:978] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 14:28:51:978] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 14:28:51:978] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 14:28:51:978] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 14:28:51:978] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 14:28:51:978] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 14:28:51:978] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 14:28:51:978] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 14:28:51:978] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 14:28:51:983] [INFO] [say] (hi)
+[2018-10-12 14:36:01:683] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 14:36:01:739] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 14:36:01:739] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 14:36:01:739] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 14:36:01:739] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 14:36:01:739] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 14:36:01:739] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 14:36:01:739] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 14:36:01:739] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 14:36:01:739] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 14:36:01:746] [INFO] [say] (hi)
+[2018-10-12 14:36:19:485] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 14:36:19:549] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 14:36:19:549] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 14:36:19:549] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 14:36:19:549] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 14:36:19:549] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 14:36:19:549] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 14:36:19:549] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 14:36:19:549] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 14:36:19:549] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 14:36:19:555] [INFO] [say] (hi)
+[2018-10-12 14:36:56:193] [WARN] [GHOST] Did you forget to link a goal to the rule?
+[2018-10-12 14:36:56:259] [WARN] No configuration file was loaded! Param=STARTING_STI_FUNDS
+[2018-10-12 14:36:56:259] [WARN] No configuration file was loaded! Param=STARTING_LTI_FUNDS
+[2018-10-12 14:36:56:259] [WARN] No configuration file was loaded! Param=STI_FUNDS_BUFFER
+[2018-10-12 14:36:56:259] [WARN] No configuration file was loaded! Param=LTI_FUNDS_BUFFER
+[2018-10-12 14:36:56:259] [WARN] No configuration file was loaded! Param=TARGET_LTI_FUNDS
+[2018-10-12 14:36:56:259] [WARN] No configuration file was loaded! Param=TARGET_STI_FUNDS
+[2018-10-12 14:36:56:259] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_STI_WAGE
+[2018-10-12 14:36:56:259] [WARN] No configuration file was loaded! Param=ECAN_STARTING_ATOM_LTI_WAGE
+[2018-10-12 14:36:56:259] [WARN] No configuration file was loaded! Param=ECAN_MAX_AF_SIZE
+[2018-10-12 14:36:56:264] [INFO] [say] (hi)

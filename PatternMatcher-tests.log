@@ -1,106 +1,132 @@
-%%%% Starting test on tests.txt
-Group begin: on tests.txt
+%%%% Starting test PatternMatcher-tests
 Group begin: PatternMatcher-tests
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\A
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 96
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
-  result-kind: fail
-  actual-value: #f
-  actual-error: (unbound-variable #f "Unbound variable: ~S" (color) #f)
+  result-kind: pass
+  actual-value: (ConceptNode "Color")
+
   expected-value: (ConceptNode "Color")
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\B
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 96
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
-  result-kind: fail
-  actual-value: #f
-  actual-error: (unbound-variable #f "Unbound variable: ~S" (color) #f)
+  result-kind: pass
+  actual-value: (InheritanceLink
+   (ConceptNode "Blue")
+   (ConceptNode "Color")
+)
+
   expected-value: (InheritanceLink
    (ConceptNode "Blue")
    (ConceptNode "Color")
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\C
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 96
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
-  result-kind: fail
-  actual-value: #f
-  actual-error: (unbound-variable #f "Unbound variable: ~S" (color) #f)
+  result-kind: pass
+  actual-value: (InheritanceLink
+   (ConceptNode "Green")
+   (ConceptNode "Color")
+)
+
   expected-value: (InheritanceLink
    (ConceptNode "Green")
    (ConceptNode "Color")
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\D
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 96
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
-  result-kind: fail
-  actual-value: #f
-  actual-error: (unbound-variable #f "Unbound variable: ~S" (color) #f)
+  result-kind: pass
+  actual-value: (InheritanceLink
+   (ConceptNode "Red")
+   (ConceptNode "Color")
+)
+
   expected-value: (InheritanceLink
    (ConceptNode "Red")
    (ConceptNode "Color")
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\E
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 96
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
-  result-kind: fail
-  actual-value: #f
-  actual-error: (unbound-variable #f "Unbound variable: ~S" (animal) #f)
+  result-kind: pass
+  actual-value: (InheritanceLink
+   (ConceptNode "fish")
+   (ConceptNode "Animal")
+)
+
   expected-value: (InheritanceLink
    (ConceptNode "fish")
    (ConceptNode "Animal")
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\F
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 96
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
-  result-kind: fail
-  actual-value: #f
-  actual-error: (unbound-variable #f "Unbound variable: ~S" (animal) #f)
+  result-kind: pass
+  actual-value: (InheritanceLink
+   (ConceptNode "dog")
+   (ConceptNode "Animal")
+)
+
   expected-value: (InheritanceLink
    (ConceptNode "dog")
    (ConceptNode "Animal")
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\G
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 177
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
-  result-kind: fail
-  actual-value: #f
-  actual-error: (unbound-variable #f "Unbound variable: ~S" (animal) #f)
+  result-kind: pass
+  actual-value: (InheritanceLink
+   (ConceptNode "cat")
+   (ConceptNode "Animal")
+)
+
   expected-value: (InheritanceLink
    (ConceptNode "cat")
    (ConceptNode "Animal")
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\G
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 96
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (stv 1.000000 1.000000)
   expected-value: (stv 1.000000 1.000000)
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\I
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 177
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (SetLink
@@ -116,9 +142,10 @@ Test end:
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\I
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 177
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (SetLink
@@ -152,9 +179,10 @@ Test end:
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\I
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 177
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (SetLink
@@ -170,9 +198,10 @@ Test end:
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\I
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 96
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (SetLink
@@ -188,9 +217,10 @@ Test end:
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\O
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 177
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (SetLink
@@ -206,9 +236,10 @@ Test end:
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\O
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 177
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (SetLink
@@ -242,9 +273,10 @@ Test end:
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\O
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 177
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (SetLink
@@ -260,9 +292,10 @@ Test end:
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\O
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 177
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (SetLink
@@ -296,9 +329,10 @@ Test end:
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\O
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 177
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (SetLink
@@ -314,9 +348,10 @@ Test end:
 )
 
 Test begin:
-  source-file: "/home/kira/cloned/opencog_test/GHOST_tester.scm"
-  source-line: 139
-  source-form: (test-equal (test-read-eval-string expected) (test-read-eval-string line))
+  test-name: #\O
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 177
+  source-form: (test-equal prev-rule-name expected response)
 Test end:
   result-kind: pass
   actual-value: (SetLink
@@ -335,7 +370,3 @@ Test end:
    (ConceptNode "Green")
 )
 
-Group end: PatternMatcher-tests
-Group end: on tests.txt
-# of expected passes      11
-# of unexpected failures  7

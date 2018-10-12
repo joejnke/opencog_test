@@ -1,0 +1,13 @@
+%%%% Starting test try
+Group begin: try
+Test begin:
+  source-line: 14
+  source-form: (test-equal (list (ConceptNode "Minilik") (ConceptNode "Tayitu")) (list (ConceptNode "Minilik") (ConceptNode "Tayitu")))
+Test end:
+  result-kind: pass
+  actual-value: ((ConceptNode "Minilik")
+ (ConceptNode "Tayitu")
+)
+  expected-value: ((ConceptNode "Minilik")
+ (ConceptNode "Tayitu")
+)

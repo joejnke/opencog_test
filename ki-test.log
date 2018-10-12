@@ -1,0 +1,31 @@
+%%%% Starting test ki-test
+Group begin: ki-test
+Test begin:
+  test-name: #\A
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 105
+  source-form: (test-equal prev-rule-name expected response)
+Test end:
+  result-kind: pass
+  actual-value: ((WordNode "hi")
+)
+  expected-value: ((WordNode "hi")
+)
+Test begin:
+  test-name: #\B
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 105
+  source-form: (test-equal prev-rule-name expected response)
+Test end:
+  result-kind: pass
+  actual-value: ()
+  expected-value: ()
+Test begin:
+  test-name: #\C
+  source-file: "/home/kira/cloned/opencog_test/tensae.scm"
+  source-line: 188
+  source-form: (test-equal prev-rule-name expected response)
+Test end:
+  result-kind: pass
+  actual-value: ()
+  expected-value: ()
