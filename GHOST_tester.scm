@@ -19,6 +19,10 @@
 (define (test-func)
 	(call-with-input-file "tests.txt"
 		(lambda (port)
+			(define failed_exp "Execution failed expressions ID:")
+			(define passed_Texp "Test passed expressions ID:")
+			(define failed_Texp "Test failed expressions ID:")
+			(define expression_no 0)
       (define num-R 0)
       (define num-fR 0)
       (define num-N 0)
@@ -81,7 +85,8 @@
             )
           )
 
-          (display (format #f "-> ~a\n" (string-join (list (string type) line))))
+					(set! expression_no (+ expression_no 1))
+          (display (format #f "-> ~a\n" (string-join (list (object->string expression_no) (string type) line))))
 					(cond
 					((equal? type #\R)
 						(begin
@@ -140,11 +145,16 @@
                       (display (test-read-eval-string expected))
                       (display "\n")
                       (display (center-string (string-upcase (object->string (test-result-kind ))) 24 #\< #\>))
+											(if (equal? (string-upcase (object->string (test-result-kind ))) "PASS")
+												(set! passed_Texp (string-join (list passed_Texp (object->string expression_no))))
+												(set! failed_Texp (string-join (list failed_Texp (object->string expression_no))))
+											)
                       (display "\n\n")
                     )
                     (lambda (key . args)
                       (display "\nERROR: possibly syntax error.\n")
                       (set! num-fR (+ num-fR 1))
+											(set! failed_exp (string-join (list failed_exp ", " (object->string expression_no))))
                     )
                   )
 
@@ -152,6 +162,7 @@
                 (begin
                   (display "\nERROR: Missing Expected Statement\n")
                   (set! num-fR (+ num-fR 1))
+									(set! failed_exp (string-join (list failed_exp ", " (object->string expression_no))))
                   (unread-string (string-append expected (string #\lf)) port) ;return the reading point one line back.
                 )
             )
@@ -175,6 +186,7 @@
               (lambda (key . args)
                 (display "\nERROR: possibly syntax error.\n")
                 (set! num-fN (+ num-fN 1))
+								(set! failed_exp (string-join (list failed_exp (object->string expression_no))))
               )
             )
             (display "\n\n")
@@ -193,8 +205,11 @@
 
     (display (format #f "\n\n# of total executions: ~a\n" (+ num-R num-N)))
     (display (format #f "# of failed executions: ~a\n" (+ num-fR num-fN)))
+		(display (format #f "~a\n" failed_exp))
     (display (format #f "# of Skipped lines: ~a\n" num-skpln))
     (display (format #f "# of tested executions: ~a\n" (- num-R num-fR)))
+		(display (format #f "~a\n" passed_Texp))
+		(display (format #f "~a\n" failed_Texp))
 		)
 	)
 )
